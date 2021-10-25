@@ -1,6 +1,14 @@
 # Hotline-News
 Created a responsive one page web applicatio using React.js framework which fetch different category news from news api.
+
+# General category news/ homepage
 ![ScreenShot 1](/src/components/general.PNG)
+
+# about page
+![ScreenShot 2](/src/components/about.PNG)
+
+# business category
+![ScreenShot 3](/src/components/business.PNG)
 
 # Getting Started with Create React App
 
